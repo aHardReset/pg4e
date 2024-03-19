@@ -1,0 +1,5 @@
+is no suffix that uniquely marks a file as executable
+If you were to open an executable file in a text editor it would look
+completely crazy and be unreadable
+It is not easy to read or write machine language so it is nice that we
+have interpreters and compilers that
